@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Людмила Притула](https://up.htmlacademy.ru/javascript/20/user/1111255).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Зрилов](https://htmlacademy.ru/profile/id1045563).
 
 ---
 
